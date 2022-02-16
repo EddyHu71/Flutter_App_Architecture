@@ -1,3 +1,3 @@
 # Flutter_App_Architecture
 
-Use API from (https://reqres.in/)
+Use API from Reqres[https://reqres.in/]
